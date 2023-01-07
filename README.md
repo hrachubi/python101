@@ -2,6 +2,11 @@ Szkolenia Python 101
 ====================
 Nowa linijka
 
+Poprawki
+
+Kolejne
+
+
 Niniejsze materiały to dokumentacja i kody źródłowe do szkoleń z
 języka Python realizowanych w ramach projektu [Koduj z Klasą][1]
 prowadzonego przez Fundację [Centrum Edukacji Obywatelskiej][2].
